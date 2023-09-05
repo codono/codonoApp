@@ -1,3 +1,7 @@
 {
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true
+  },
   "extends": "@tsconfig/react-native/tsconfig.json"
 }
